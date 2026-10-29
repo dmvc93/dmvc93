@@ -2,5 +2,5 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Resource Group Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Resource Group Home Lab](https://github.com/dmvc93/LABURL)
+ 
